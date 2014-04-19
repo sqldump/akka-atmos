@@ -25,7 +25,7 @@ object Library {
 object Dependencies {
   import Library._
 
-  val akkaSkeleton = List(
+  val akkaAtmos = List(
     jsr305,
     log4j,
     akkaActor,
